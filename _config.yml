@@ -5,7 +5,7 @@ name: akceptowanie | Hania
 tagline: Jeśli któryś z linków nie działa, to potrzebujesz aplikacji Telegram!
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://imgur.com/3bQcoCz
+Image_URL: "https://i.imgur.com/3bQcoCz.jpeg"
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
@@ -66,7 +66,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:kontakt@akceptowanie.pl'
+    URL:
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
