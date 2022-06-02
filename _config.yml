@@ -122,6 +122,12 @@ links:
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
+    # TELEGRAM
+  - Name: Cennik
+    URL: http://telegram.me/cennik_akceptowanie
+    Username: theharshtrivedi
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
@@ -235,11 +241,11 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-  - Name: Links
-    URL: 
+  - Name: Czym jest Telegram?
+    URL: https://imgur.com/a/o9thsqe
     Icon-Class: fas fa-link
     Color: '#d94869'
-    Text_Color: '#ffffff'
+    Text_Color: '#044141'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 
