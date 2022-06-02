@@ -24,8 +24,8 @@ links:
 
     # INSTAGRAM
   - Name: Instagram
-    URL: https://www.instagram.com/akceptowanie
-    Username: harsh98trivedi
+    URL: https://www.instagram.com/
+    Username: akceptowanie
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
@@ -111,21 +111,21 @@ links:
     # TELEGRAM
   - Name: Darmowy VIP (próbki)
     URL: https://t.me/+RKP4TqoTLVowYjY0
-    Username: theharshtrivedi
+    Username: 
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # TELEGRAM
   - Name: Napisz do mnie
     URL: http://telegram.me/akceptowanie
-    Username: theharshtrivedi
+    Username: 
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # TELEGRAM
   - Name: Cennik
     URL: http://telegram.me/cennik_akceptowanie
-    Username: theharshtrivedi
+    Username: 
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
