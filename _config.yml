@@ -244,8 +244,8 @@ links:
   - Name: Czym jest Telegram?
     URL: https://imgur.com/a/o9thsqe
     Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#044141'
+    Color: '#044141'
+    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 
